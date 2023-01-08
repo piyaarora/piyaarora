@@ -7,7 +7,7 @@
 <br/>
 I'm a self-taught passionate FrontEnd developer and UX Designer from India.
 
-- 💼  I’m working as a Software Engineer at [Integrella](https://www.integrella.com/) and contributing to frontend and backend for building features in application.
+- 💼  I’m working as a Software Developer at [Integrella](https://www.integrella.com/) and contributing to frontend and backend for building features in application.
 
 - 🌱 I’m currently looking forward to new leanings in backend development.
 
