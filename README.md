@@ -35,7 +35,7 @@ I'm a self-taught passionate FrontEnd developer and UX Designer from India.
 ---
 
 <!-- BLOG-POST-LIST:START -->
-<br/>
+
 
 ### ✍️ Blog Posts : 
 
