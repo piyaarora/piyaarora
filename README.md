@@ -15,7 +15,7 @@ I'm a self-taught passionate FrontEnd developer and UX Designer from India.
 
 - ⚡ In my free time I solve problems on hackerank, build hobby projects and read tech articles.
 
-- 📫 Reach out to me: &nbsp;<a href="https://www.linkedin.com/in/priya-arora-98315b179/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width= "70" alt="LinkedIn Badge"></a>
+- 📫 Reach out to me: &nbsp;<a href="https://www.linkedin.com/in/priya-arora-98315b179/">https://www.linkedin.com/in/arorapriya141/</a>
 
 <br/>
 
